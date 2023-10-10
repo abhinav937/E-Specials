@@ -22,7 +22,7 @@ links: https://www.digikey.com/en/products/detail/murata-power-solutions-inc./MG
 <img src="https://github.com/abhinav937/E-Specials/assets/79394309/da452f1d-acff-4c1a-b57f-30e0a7c26346" width="300"> <br>
 links: https://www.vishay.com/en/thermal-management/ <br>
 
-to be continued...
+## to be continued...
 
 
 
